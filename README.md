@@ -7,7 +7,7 @@ An Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/Abdulnuman009/React-Ecommerce(ShopSmart)
+  git clone https://github.com/Abdulnuman009/React-Ecommerce-ShopSmart
 ```
 
 Go to the project directory
